@@ -11,7 +11,7 @@ export default function ResumePage() {
           <div className="flex items-center justify-between">
             <div>
               <h1 className="text-3xl md:text-4xl font-bold text-foreground">Gargi Ubarhande</h1>
-              <p className="text-primary mt-2 text-lg">Student | Information Technology</p>
+              <p className="text-primary mt-2 text-lg">Undergrad | Information Technology</p>
             </div>
             <div className="hidden md:flex gap-3">
               <a href="mailto:gargi.ubarhande@gmail.com" className="p-2 hover:bg-muted rounded-lg transition-colors" title="Email">
@@ -75,6 +75,9 @@ export default function ResumePage() {
             With a keen interest in problem-solving and learning new technologies, I am committed to developing skills 
             that will help me become a valuable professional. I am eager to apply my knowledge to real-world projects 
             and contribute meaningfully to the field.
+          </p>
+           <p className="text-foreground leading-relaxed text-lg">
+           i am grateful
           </p>
         </section>
 
