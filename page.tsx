@@ -196,7 +196,7 @@ export default function ResumePage() {
             Languages
           </h2>
           <div className="grid md:grid-cols-2 gap-4">
-            {['English', 'Hindi', 'French', 'German'].map((lang) => (
+            {['English', 'Hindi', 'French'].map((lang) => (
               <div key={lang} className="flex items-center justify-between p-4 rounded-lg bg-muted/50">
                 <span className="text-foreground font-medium">{lang}</span>
                 <div className="flex gap-1">
